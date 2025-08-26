@@ -17,9 +17,11 @@
 
 A small web application to help student understand physics with cool interactive simulations and easily understandable theory.
 
-## Link
+## Website Preview
 
 You can clone the project locally or try the web app on the [website](https://physicshub.github.io).
+
+<img src="https://github.com/PhysicsHub/physicshub.github.io/blob/main/screenshots/v1.1/main.png?raw=true" alt="Repository Size">
 
 ## Steps to run it locally
 
